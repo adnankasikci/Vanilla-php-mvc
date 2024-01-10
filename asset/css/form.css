@@ -1,0 +1,21 @@
+input {
+    background: #409b71;
+    border: 0;
+    font-size: 14px;
+    padding: .5rem 1rem;
+    color: white;
+}
+
+input::placeholder {
+    color: white;
+}
+
+input:focus {
+    color: white;
+    outline: 0;
+}
+
+input[type='submit'] {
+    background-color: #157347;
+    color: white;
+}

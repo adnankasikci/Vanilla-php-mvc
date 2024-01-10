@@ -1,0 +1,14 @@
+{
+    "name": "adnan/php_advanced",
+    "autoload": {
+        "psr-4": {
+            "Adnan\\PhpAdvanced\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adnan"
+        }
+    ],
+    "require": {}
+}
